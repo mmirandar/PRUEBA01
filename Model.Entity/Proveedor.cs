@@ -9,6 +9,8 @@ namespace Model.Entity
 {
     public class Proveedor
     {
+        //Propiedades
+
         private long idProveedor;
         private string nombre;
         [Display(Name = "Apelido Materno")]
